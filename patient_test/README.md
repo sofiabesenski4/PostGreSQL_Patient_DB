@@ -20,3 +20,9 @@ SQL- the basic building block behind both PostGreSQL and PyGreSQL. It is the "St
 
 Notes:
 The date input from python into PostGreSQL needs to be of string format, so remember to typecast it as such. 
+
+
+
+IDEA:
+
+So the practical idea behind using these scripts, is to firstly, analyze the list of 
